@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "The Future of Web Design",
+    "date": "October 24, 2023",
+    "summary": "Exploring the latest trends in web design, from glassmorphism to bento grids.",
+    "content": "<p>Web design is constantly evolving. In recent years, we've seen a shift towards more immersive and interactive experiences. <strong>Glassmorphism</strong>, with its translucent backgrounds and blur effects, adds depth and a modern feel.</p><p>Another rising trend is the <strong>Bento Grid</strong> layout, popularized by Apple. It allows for a structured yet flexible way to organize content.</p><h2>Why Aesthetics Matter</h2><p>A beautiful website isn't just about vanity; it builds trust. Users are more likely to engage with a site that looks polished and professional.</p>",
+    "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&q=80&w=1000"
+  },
+  {
+    "id": 2,
+    "title": "Mastering CSS Grid",
+    "date": "November 02, 2023",
+    "summary": "A comprehensive guide to understanding and using CSS Grid for complex layouts.",
+    "content": "<p>CSS Grid is a powerful layout system available in CSS. It is a 2-dimensional system, meaning it can handle both columns and rows, unlike Flexbox which is largely a 1-dimensional system.</p><h2>Getting Started</h2><p>To define a grid container, you simply use <code>display: grid;</code>. From there, you can define columns and rows using <code>grid-template-columns</code> and <code>grid-template-rows</code>.</p>",
+    "image": "https://images.unsplash.com/photo-1507721999472-8ed4421c4af2?auto=format&fit=crop&q=80&w=1000"
+  },
+  {
+    "id": 3,
+    "title": "JavaScript: The Good Parts",
+    "date": "November 15, 2023",
+    "summary": "Revisiting the core concepts that make JavaScript a versatile and powerful language.",
+    "content": "<p>JavaScript has come a long way since its inception. With ES6 and beyond, we have powerful features like arrow functions, destructuring, and async/await.</p><p>It's important to understand the fundamentals, such as closures and the prototype chain, to truly master the language.</p>",
+    "image": "https://images.unsplash.com/photo-1579468118864-1b9ea3c0db4a?auto=format&fit=crop&q=80&w=1000"
+  }
+]
